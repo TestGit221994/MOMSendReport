@@ -1,7 +1,7 @@
 ﻿Hello Tushar sir, <p>
  
 
-Please find today's MOM of the team below : <b> 20-Mar-2025 </b></p>
+Please find today's MOM of the team below : <b> 26-Mar-2025 </b></p>
 <p>
 
 Team Name  : <b> The AutoMates </b></p>
@@ -37,8 +37,8 @@ Will connect with regression team.</td>
 <tr>
 <td><center>Arokiya Renit D</td>
 <td><center>Assurant-DLS</td>
-<td><center>Will work on Regression 25.2 for Google, Target & Koodo</td>
-<td><center>8</td>
+<td><center></td>
+<td><center></td>
 </tr>
 <tr>
 <td><center>Himanshu</td>
@@ -59,7 +59,7 @@ Will connect with Sangeeta for the regression</td>
 <td><center>Assurant-DLS</td>
 <td><center>Will work on Regression 25.2
 Will debug and rerun failures
-ATT Opus c care and vzw PIF</td>
+ATT Opus c care and vzw PIF ,ATT B2B ECF</td>
 <td><center>8</td>
 </tr>
 <tr>
@@ -73,18 +73,17 @@ Will connect with regression team</td>
 <tr>
 <td><center>Sangeeta Mehra</td>
 <td><center>Assurant-DLS</td>
-<td><center>Will work on regression for CEW
+<td><center>Will work on CEW rerun failures
 Will connect with Sourav sir for my queries
-Will connect with regression team</td>
+Will connect with Dipak sir for ecf queries</td>
 <td><center>8</td>
 </tr>
 <tr>
 <td><center>Arshdeep Singh</td>
 <td><center>Assurant-DLS
 Pocket Geek</td>
-<td><center>Will work on Device Condition session migration to item details for both CE and CEW.
-Will take scheduled interview.</td>
-<td><center>8</td>
+<td><center></td>
+<td><center></td>
 </tr>
 <tr>
 <td><center>Arshdeep Singh</td>
@@ -106,7 +105,7 @@ Team Name  : <b> Test Titans </b></p>
 <tr>
 <td><center>Rishab</td>
 <td><center>Bugbot</td>
-<td><center>Requirements gathering in assigning roles and privileges to the user from admin panel and api creation.</td>
+<td><center>Working on user privileges assignment from admin panel apis creation module.</td>
 <td><center>8</td>
 </tr>
 <tr>
@@ -146,24 +145,21 @@ Team Name  : <b> PerfOps Squad </b></p>
 <tr>
 <td><center>Raghav</td>
 <td><center>Assurant</td>
-<td><center>WIll work on regression execution for 25.2 release.
-Will work on Executions on AWS Distributed load test Environmnet.
-Will attend morning and Evening Scrum.</td>
+<td><center></td>
 <td><center>8</td>
 </tr>
 <tr>
 <td><center>Abhishek</td>
 <td><center>Assurant
 (Backup resource)&BugBot</td>
-<td><center>Will do testing of auto form filler module
-Will write test cases for Reptor Gen module.</td>
+<td><center>Will write test cases for Multi URL's Module and complete Raptor Gen module</td>
 <td><center>8</td>
 </tr>
 <tr>
 <td><center>Aman</td>
 <td><center>Assurant
 (Backup resource) & Ceretax</td>
-<td><center>will do deployments on Auto & Perf if required, will work on the user stories provided by Anurag for ceretax project.</td>
+<td><center>will do deployments on Auto & Perf if required, will work with Anurag on ceretax project.</td>
 <td><center>8</td>
 </tr>
 </table>
@@ -213,7 +209,7 @@ Team Name  : <b> Tester Army </b></p>
 <tr>
 <td><center>Gagan Sharma</td>
 <td><center>Tevio</td>
-<td><center>Create Test Cases for Admin , Delivery Management module</td>
+<td><center>Review Test Cases for Admin , Vendor , Customer</td>
 <td><center>8</td>
 </tr>
 <tr>
@@ -225,7 +221,7 @@ Team Name  : <b> Tester Army </b></p>
 <tr>
 <td><center>Nitin Lamba</td>
 <td><center>Scramble</td>
-<td><center></td>
+<td><center>I continue my  work on the API testcases of efx org and after that work on the new testcases.</td>
 <td><center>8</td>
 </tr>
 </table>
