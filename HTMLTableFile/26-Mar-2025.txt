@@ -14,43 +14,46 @@ Team Name  : <b> The AutoMates </b></p>
 <tr>
 <td><center>Diwakar Thakur</td>
 <td><center>Assurant-DLS</td>
-<td><center>Will do the regression on  ATT Dealer
-Will do the regression on ATT Sofi
+<td><center>Will Working on Regression ATT CE Dealer and ATT Sofi 25.2 release and validate reports
+Will upload artifacts on wiki
 Will connect with regression team</td>
 <td><center>8</td>
 </tr>
 <tr>
 <td><center>Shaifali Sharma</td>
 <td><center>Assurant-DLS</td>
-<td><center>Reviewing PR, Team Queries, Work with coverage sheet</td>
+<td><center>Reviewing PR, Team Queries, Work with coverage sheet, work with regression</td>
 <td><center>8</td>
 </tr>
 <tr>
 <td><center>Adesh Sharawat</td>
 <td><center>Assurant-DLS</td>
 <td><center>Will do the regression for ATT B2B, B2B Verizon and Tracfone.
-Will execute b2b kitting feed scenarios.
 Will do the debug and rerun failures.
-Will connect with regression team.</td>
+Will connect with regression team.
+Will upload regression artifacts on wiki page.
+Will work on regression fixes.</td>
 <td><center>8</td>
 </tr>
 <tr>
 <td><center>Arokiya Renit D</td>
 <td><center>Assurant-DLS</td>
-<td><center></td>
-<td><center></td>
+<td><center>Will work on Regression 25.2 for Google, Target & Koodo</td>
+<td><center>8</td>
 </tr>
 <tr>
 <td><center>Himanshu</td>
 <td><center>Assurant-DLS</td>
-<td><center>Will work on Regression 25.2
-Team connects</td>
+<td><center>Sanity for 25.2 release of uscc, google canada and wow
+Team connects
+Artifacts upload </td>
 <td><center>8</td>
 </tr>
 <tr>
 <td><center>Sourav Monga</td>
 <td><center>Assurant-DLS</td>
-<td><center>Will continue work on CEW regression
+<td><center>Will complete CEW regression 25.2
+Will upload regression artifacts on wiki page
 Will connect with Sangeeta for the regression</td>
 <td><center>8</td>
 </tr>
@@ -58,32 +61,37 @@ Will connect with Sangeeta for the regression</td>
 <td><center>Dipak Chougule</td>
 <td><center>Assurant-DLS</td>
 <td><center>Will work on Regression 25.2
-Will debug and rerun failures
-ATT Opus c care and vzw PIF ,ATT B2B ECF</td>
+Will rerun failures in ATT Consumer
+Will do sanity for Telus ,ATT Opus C care, ATT Consumer, VZW B2B PIF</td>
 <td><center>8</td>
 </tr>
 <tr>
 <td><center>Mohit Kumar</td>
 <td><center>Assurant-DLS</td>
 <td><center>Working on Regression ATT CE Corporate 25.2 release and validate reports
-Working on Regression for Freedom 25.2 release and validate reports
-Will connect with regression team</td>
+Will upload artifacts on wiki
+Will connect with regression team
+Will work on Regression Fixes</td>
 <td><center>8</td>
 </tr>
 <tr>
 <td><center>Sangeeta Mehra</td>
 <td><center>Assurant-DLS</td>
-<td><center>Will work on CEW rerun failures
+<td><center>Will connect with Raghav sir for Ecf Database testcases
 Will connect with Sourav sir for my queries
-Will connect with Dipak sir for ecf queries</td>
+Will connect with Dipak sir for ecf queries
+Will upload artifacts on wiki
+Will connect with regression team</td>
 <td><center>8</td>
 </tr>
 <tr>
 <td><center>Arshdeep Singh</td>
 <td><center>Assurant-DLS
 Pocket Geek</td>
-<td><center></td>
-<td><center></td>
+<td><center>Will work on data migration to itemdetails from session.
+Will make few changes in docker file to resolve apkanalyzer issue in pocketgeek.
+Will connect with Rob and Harsha for my queries related to different aab files.</td>
+<td><center>8</td>
 </tr>
 <tr>
 <td><center>Arshdeep Singh</td>
@@ -105,7 +113,7 @@ Team Name  : <b> Test Titans </b></p>
 <tr>
 <td><center>Rishab</td>
 <td><center>Bugbot</td>
-<td><center>Working on user privileges assignment from admin panel apis creation module.</td>
+<td><center>Requirements gathering and flow setup for the apis design of UserQueries Module.</td>
 <td><center>8</td>
 </tr>
 <tr>
@@ -145,14 +153,16 @@ Team Name  : <b> PerfOps Squad </b></p>
 <tr>
 <td><center>Raghav</td>
 <td><center>Assurant</td>
-<td><center></td>
+<td><center>Load test executions for 25.2. and Automation regression for 25.2
+Provide estimatins fo race gaming project.
+Attend morning and Evening Scrum.</td>
 <td><center>8</td>
 </tr>
 <tr>
 <td><center>Abhishek</td>
 <td><center>Assurant
 (Backup resource)&BugBot</td>
-<td><center>Will write test cases for Multi URL's Module and complete Raptor Gen module</td>
+<td><center></td>
 <td><center>8</td>
 </tr>
 <tr>
@@ -209,19 +219,19 @@ Team Name  : <b> Tester Army </b></p>
 <tr>
 <td><center>Gagan Sharma</td>
 <td><center>Tevio</td>
-<td><center>Review Test Cases for Admin , Vendor , Customer</td>
+<td><center></td>
 <td><center>8</td>
 </tr>
 <tr>
 <td><center>Devvrat Soam</td>
 <td><center>Scramble</td>
-<td><center>I am working on User as a manager account and updating test cases.</td>
+<td><center>I am working on security page of Scramble mobile application.</td>
 <td><center>8</td>
 </tr>
 <tr>
 <td><center>Nitin Lamba</td>
 <td><center>Scramble</td>
-<td><center>I continue my  work on the API testcases of efx org and after that work on the new testcases.</td>
+<td><center>I am checking the tool of desktop automation to integrate in  our script  to cover testcases of desktop application.</td>
 <td><center>8</td>
 </tr>
 </table>
